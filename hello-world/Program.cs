@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hello_world
+namespace hello_world 
 {
     class Program
     {
@@ -12,9 +12,9 @@ namespace hello_world
         int a;
 
         //aggiunta dopo la prima push
-        int A
+        int A()
         {
-           return A;
+           return a;
         }
 
         /// <summary>
