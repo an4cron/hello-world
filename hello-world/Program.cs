@@ -11,6 +11,9 @@ namespace hello_world
         //aggiunta dopo push
         int a;
 
+        //modifica 2
+        int b;
+
         //aggiunta dopo la prima push
         int A()
         {

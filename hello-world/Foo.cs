@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace hello_world
 {
+    //modifica 1
     class Foo
     {
     }
