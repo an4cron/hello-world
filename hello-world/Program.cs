@@ -8,6 +8,15 @@ namespace hello_world
 {
     class Program
     {
+        //aggiunta dopo push
+        int a;
+
+        //aggiunta dopo la prima push
+        int A
+        {
+           return A;
+        }
+
         /// <summary>
         /// Aggiunta print a video
         /// </summary>
